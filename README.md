@@ -1,2 +1,2 @@
 # Fire
-set everything on fire
+Sets all enties on fire
